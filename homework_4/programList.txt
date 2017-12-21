@@ -1,0 +1,885 @@
+ID:null
+Country:America
+University:Colorado State University
+School:Degrees programs are offered on-campus only. Certificates are offered on-campus and online.
+ProgramName:Accounting
+Degree:Master of Accountancy (MACC) – Taxation Specialization*
+
+Homepage:http://www.csuMAcc.com
+Address:205 Rockwell Hall
+E-mail:mailto:gradadmissions@business.colostate.edu
+Phone:9704915027
+DDLWithAid:Fall May 1
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Agricultural Sciences.
+ProgramName:Agricultural and Resource Economics
+Degree:Doctor of Philosophy (PHD) in Agricultural and Resource Economics
+
+Homepage:http://dare.colostate.edu/
+Address:B320 Clark Building
+E-mail:mailto:Denise.Davis@ColoState.EDU
+Phone:9704916955
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Agricultural Sciences.
+ProgramName:Animal Sciences
+Degree:Doctor of Philosophy (PHD) in Animal Sciences
+
+Homepage:http://ansci.agsci.colostate.edu
+Address:140 Animal Sciences
+E-mail:mailto:cas_ansci@mail.colostate.edu
+Phone:9704911442
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Anthropology
+Degree:Doctor of Philosophy (PhD) in Anthropology
+
+Homepage:http://www.colostate.edu/Depts/Anthropology
+Address:B219 Clark Building
+E-mail:mailto:Brenda.Avery@colostate.edu
+Phone:9704915447
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Art and Art History
+Degree:Master of Fine Arts (MFA) in Art
+
+Homepage:http://art.colostate.edu
+Address:G100 Visual Arts Building
+E-mail:mailto:Kathleen.Chynoweth@ColoState.EDU
+Phone:9704916775
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Engineering.
+ProgramName:Atmospheric Science
+Degree:Doctor of Philosophy (PHD) in Atmospheric Science
+
+Homepage:http://www.atmos.colostate.edu/
+Address:118 Atmospheric Science Building
+E-mail:mailto:Sarah.Tisdale@colostate.edu
+Phone:9704918682
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Agricultural Sciences.
+ProgramName:Bioagricultural Sciences and Pest Management
+Degree:Doctor of Philosophy (PHD) in Bioagricultural Sciences – Weed Science Specialization*
+
+Homepage:http://www.colostate.edu/Dept/bspm/
+Address:C129 Plant Sciences Building
+E-mail:mailto:Janet.Dill@ColoState.EDU
+Phone:9704915261
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Biochemistry and Molecular Biology
+Degree:Doctor of Philosophy (PHD) in Biochemistry
+
+Homepage:http://www.bmb.colostate.edu/
+Address:111 Molecular and Radiological Biosciences Building
+E-mail:mailto:Kristen.DeQuasie@colostate.edu
+Phone:9704915566
+DDLWithAid:Fall – January 1
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Biology
+Degree:Professional Science Master’s (PSM) in Zoo, Aquarium, and Animal Shelter Manage
+
+Homepage:http://www.colostate.edu/Depts/Biology/
+Address:E106 Zoology/Anatomy Building
+E-mail:mailto:Dorothy.Ramirez@ColoState.EDU
+Phone:9704911923
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This is an interdisciplinary program with multiple department collaboration.
+ProgramName:Biomedical Engineering, School of
+Degree:Doctor of Philosophy (PHD) in Bioengineering
+
+Homepage:http://www.engr.colostate.edu/sbme
+Address:225 Scott Bioengineering Building
+E-mail:mailto:Sara.Mattern@colostate.edu
+Phone:9704917157
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Veterinary Medicine and Biomedical Sciences.
+ProgramName:Biomedical Sciences
+Degree:Doctor of Philosophy (PhD) in Biomedical Sciences
+
+Homepage:http://www.cvmbs.colostate.edu/bms/
+Address:102 Physiology Building
+E-mail:mailto:bmsgradinformation@colostate.edu
+Phone:9704916188
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:There are distinct Master of Business Administration programs offered by the College of Business ranging from on-campus, online, and Denver campus instruction options.
+ProgramName:Business Administration
+Degree:Master of Business Administration (MBA) – Professional Program
+
+Homepage:http://www.CSUmba.com
+Address:215 Rockwell Hall North
+E-mail:mailto:gradadmissions@business.colostate.edu
+Phone:9704915027
+DDLWithAid:Fall Early Application Deadline – February 1 International Admission Deadline – May 1 Domestic Admission Deadline – June 1
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This is an interdisciplinary program with multiple department collaboration.
+ProgramName:Cell and Molecular Biology
+Degree:Doctor of Philosophy (PHD) in Cell and Molecular Biology
+
+Homepage:http://www.cmb.colostate.edu
+Address:220 Student Services Building
+E-mail:mailto:Charlene.Spencer@colostate.edu
+Phone:9704910241
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Engineering.
+ProgramName:Chemical and Biological Engineering
+Degree:Doctor of Philosophy (PHD) in Chemical Engineering
+
+Homepage:http://www.engr.colostate.edu/cheme/
+Address:102 Engineering South
+E-mail:mailto:Denise.Morgan@colostate.edu
+Phone:9704915252
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Chemistry
+Degree:Doctor of Philosophy (PHD) in Chemistry
+
+Homepage:http://www.chem.colostate.edu/
+Address:B101 Chemistry Building
+E-mail:mailto:Kathy.LUCAS@colostate.edu
+Phone:9704917966
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:
+ProgramName:Civil and Environmental Engineering
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Veterinary Medicine and Biomedical Sciences.
+ProgramName:Clinical Sciences
+Degree:Doctor of Philosophy (PhD) in Clinical Sciences
+
+Homepage:http://www.cvmbs.colostate.edu/clinsci/
+Address:A201 Veterinary Teaching Hospital
+E-mail:mailto:Morna.Mynard@ColoState.EDU
+Phone:9702974030
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:The College of Agriculture is one of the eight colleges at Colorado State University.
+ProgramName:College of Agricultural Sciences
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:The College of Business is one of the eight colleges at Colorado State University.
+ProgramName:College of Business
+Degree:Master of Computer Information Systems (MCIS)‡
+
+Homepage:
+Address:
+E-mail:
+Phone:
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:The Walter Scott, Jr. College of Engineering is one of the eight colleges at Colorado State University.
+ProgramName:College of Engineering
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:The College of Liberal Arts is one of the eight colleges at Colorado State University.
+ProgramName:College of Liberal Arts
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:The College of Natural Sciences is one of eight colleges at Colorado State University.
+ProgramName:College of Natural Sciences
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Communication Studies
+Degree:Doctor of Philosophy (PhD) in Communication
+
+Homepage:http://communicationstudies.colostate.edu/
+Address:A203 Behavioral Sciences Building
+E-mail:mailto:cla-commstudies_grad@mail.colostate.edu
+Phone:9704914123
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:The MCIS program was established in 1962 by the College of Business.
+ProgramName:Computer Information Systems
+Degree:Master of Computer Information Systems (MCIS)
+
+Homepage:https://biz.colostate.edu/academics/graduate-programs/graduate-certificates
+Address:221 Rockwell Hall North
+E-mail:mailto:gradadmissions@business.colostate.edu
+Phone:9704915027
+DDLWithAid:Fall July 1 for domestic and online applicants May 1 for international applicants Spring December 1 for domestic online applicants October 1 for international applicants
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Computer Science
+Degree:Doctor of Philosophy (PHD) in Computer Science
+
+Homepage:http://www.cs.colostate.edu/
+Address:279 Computer Science Building
+E-mail:mailto:gradinfo@cs.colostate.edu
+Phone:9704915792
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your department may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Construction Management
+Degree:Master of Science (MS) in Construction Management
+
+Homepage:http://www.cm.colostate.edu
+Address:102 Guggenheim Hall
+E-mail:mailto:cmgradadvising@colostate.edu
+Phone:9704911890
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Design and Merchandising
+Degree:Master of Science (MS) in Design and Merchandising – Interior Design Specialization*
+
+Homepage:http://www.dm.chhs.colostate.edu/
+Address:150 Aylesworth Hall
+E-mail:mailto:dminfo@colostate.edu
+Phone:9704911629
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This is an interdisciplinary program with multiple department collaboration.
+ProgramName:Ecology
+Degree:Doctor of Philosophy (PHD) in Ecology – Human Environment Interactions Specialization*
+
+Homepage:http://www.ecology.colostate.edu/
+Address:237 Natural Resources Building
+E-mail:mailto:ecology@colostate.edu
+Phone:9704914373
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Economics
+Degree:Doctor of Philosophy (PHD) in Economics
+
+Homepage:http://www.colostate.edu/Depts/Econ/
+Address:C306 Clark Building
+E-mail:mailto:Alison.Koss@colostate.edu
+Phone:9704913746
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Resources.
+ProgramName:Ecosystem Science and Sustainability
+Degree:Master of Science (MS) in Watershed Science
+
+Homepage:http://warnercnr.colostate.edu/departments/ess
+Address:B205 Natural and Environmental Sciences Building
+E-mail:mailto:Nikki.Foxley@colostate.edu
+Phone:9704915589
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Education, School of
+Degree:Doctor of Philosophy (PHD) in Education and Human Resource Studies – Organizational Learning, Performance and Change Specialization*
+
+Homepage:http://soe.chhs.colostate.edu
+Address:212 Education Building
+E-mail:mailto:Christian.Romero-Perry@colostate.edu
+Phone:9704913136
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Engineering.
+ProgramName:Electrical and Computer Engineering
+Degree:Doctor of Philosophy (PHD) in Electrical Engineering
+
+Homepage:http://www.engr.colostate.edu/ece/
+Address:A101 Engineering Building
+E-mail:mailto:ecegradadmit@engr.colostate.edu
+Phone:9704917850
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:English
+Degree:Master of Fine Arts (MFA) in Creative Writing
+
+Homepage:http://english.colostate.edu
+Address:359 Eddy Hall
+E-mail:mailto:Marnie.Leonard@ColoState.EDU
+Phone:9704912403
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Veterinary Medicine and Biomedical Sciences.
+ProgramName:Environmental and Radiological Health Sciences
+Degree:Doctor of Philosophy (PHD) in Toxicology
+
+Homepage:http://www.cvmbs.colostate.edu/erhs/
+Address:122 Environmental Health Building
+E-mail:mailto:Toni.M.Brown@colostate.edu
+Phone:9704915003
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Ethnic Studies
+Degree:Master of Arts (MA) in Ethnic Studies
+
+Homepage:http://ethnicstudies.colostate.edu/
+Address:202 Eddy Hall
+E-mail:mailto:Abby.Marweg@colostate.edu
+Phone:9704912730
+DDLWithAid:Fall – February 15 for assistantship consideration; department has a rolling admission policy which allows students to apply throughout the year but they will not be eligible for an assistantship.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:AACSB accreditation ensures you that the College of Business is providing a top-quality education.
+ProgramName:Finance and Real Estate
+Degree:Master of Finance&nbsp;(MFIN) in Business Administration
+
+Homepage:https://biz.colostate.edu/Academics/Graduate-Programs/Master-of-Finance
+Address:205 Rockwell Hall
+E-mail:mailto:gradadmissions@business.colostate.edu
+Phone:9704915027
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Resources.
+ProgramName:Fish, Wildlife, and Conservation Biology
+Degree:Doctor of Philosophy (PHD) in Fish, Wildlife, and Conservation Biology
+
+Homepage:http://warnercnr.colostate.edu/departments/fwcb
+Address:109D Wagar Building
+E-mail:mailto:Kim.Samsel@colostate.edu
+Phone:9704915020
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Food Science and Human Nutrition
+Degree:Doctor of Philosophy (PHD) in Food Science and Nutrition
+
+Homepage:http://www.fshn.chhs.colostate.edu
+Address:234 Gifford Building
+E-mail:mailto:Paula.Coleman@ColoState.EDU
+Phone:9704913819
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your department may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Resources.
+ProgramName:Forest and Rangeland Stewardship
+Degree:Doctor of Philosophy (PHD) in Rangeland Ecosystem Science
+
+Homepage:http://warnercnr.colostate.edu/departments/frs
+Address:123 Forestry Building
+E-mail:mailto:WCNR_FRS_DeptAdmin@mail.colostate.edu
+Phone:9704916911
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your department may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Resources.
+ProgramName:Geosciences
+Degree:Doctor of Philosophy (PHD) in Earth Sciences – Watershed Science Specialization*
+
+Homepage:http://warnercnr.colostate.edu/departments/geosciences
+Address:322 Natural Resources Building
+E-mail:mailto:Sharon.Gale@ColoState.EDU
+Phone:9704915661
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:
+ProgramName:Global Environmental Sustainability, School of
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences
+ProgramName:Health and Exercise Science
+Degree:Doctor of Philosophy (PHD) in Human Bioenergetics
+
+Homepage:http://hes.chhs.colostate.edu/
+Address:220 Moby B Wing
+E-mail:mailto:Frances.Maizland@colostate.edu
+Phone:9704915339
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:History
+Degree:Master of Arts (MA) in History – Public History – Museum Studies Specialization*
+
+Homepage:http://history.colostate.edu/
+Address:B365 Clark Building
+E-mail:mailto:Nancy.Rehe@colostate.edu
+Phone:9704916334
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Agricultural Sciences.
+ProgramName:Horticulture and Landscape Architecture
+Degree:Doctor of Philosophy (PHD) in Horticulture
+
+Homepage:http://la.agsci.colostate.edu/
+Address:111 Shepardson Building
+E-mail:mailto:Kathi.Nietfeld@ColoState.EDU
+Phone:9704917018
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Human Development and Family Studies
+Degree:Doctor of Philosophy (PHD) in Applied Developmental Science
+
+Homepage:http://www.hdfs.chhs.colostate.edu/
+Address:303 Behavioral Sciences Building
+E-mail:mailto:hdfsgradinfo@colostate.edu
+Phone:9704912872
+DDLWithAid:Fall – January 2
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:
+ProgramName:Human Dimensions of Natural Resources
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:
+ProgramName:Journalism and Media Communication
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Languages, Literatures, and Cultures
+Degree:Master of Arts (MA) in Languages, Literatures, and Cultures – Spanish Specialization*
+
+Homepage:http://www.colostate.edu/Depts/FLL/
+Address:C104 Clark Building
+E-mail:mailto:cla_llcgradstudies@colostate.edu
+Phone:
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Mathematics
+Degree:Doctor of Philosophy (PHD) in Mathematics
+
+Homepage:http://www.math.colostate.edu/
+Address:101 Weber Building
+E-mail:mailto:Bryan.Elder@ColoState.EDU
+Phone:9704917925
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Engineering.
+ProgramName:Mechanical Engineering
+Degree:Doctor of Philosophy (PHD) in Mechanical Engineering
+
+Homepage:http://www.engr.colostate.edu/me/
+Address:A101 Engineering Building
+E-mail:mailto:Stephanie.Rosso@colostate.edu
+Phone:9704918340
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your department may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Veterinary Medicine and Biomedical Sciences.
+ProgramName:Microbiology, Immunology, and Pathology
+Degree:Doctor of Philosophy (PHD) in Pathology
+
+Homepage:http://www.cvmbs.colostate.edu/mip/
+Address:110 Pathology Building
+E-mail:mailto:Heidi.Runge@colostate.edu
+Phone:9704911630
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This is an interdisciplinary program with multiple department collaboration. Bioinformatics
+ProgramName:Molecular, Cellular, and Integrative Neurosciences
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Music, Theatre, and Dance, School of
+Degree:Master of Music (MM) – Music Therapy Specialization*
+
+Homepage:http://music.colostate.edu/academics/graduate/prospective-students/available-degrees
+Address:120 University Center for the Arts
+E-mail:mailto:Murray.Oliver@colostate.edu
+Phone:9704915529
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Occupational Therapy
+Degree:Doctor of Philosophy (PHD) in Occupation and Rehabilitation Science
+
+Homepage:http://www.ot.chhs.colostate.edu/
+Address:200 Occupational Therapy Building
+E-mail:mailto:Linda.McDowell@ColoState.EDU
+Phone:9704916243
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Philosophy
+Degree:Master of Arts (MA) in Philosophy
+
+Homepage:http://philosophy.colostate.edu
+Address:243 Eddy Hall
+E-mail:mailto:Gaylene.Wolfe@ColoState.EDU
+Phone:9704913351
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Physics
+Degree:Doctor of Philosophy (PHD) in Physics
+
+Homepage:http://www.physics.colostate.edu/
+Address:124 Engineering Building
+E-mail:mailto:Kristin.McLaughlin@colostate.edu
+Phone:9704916207
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Political Science
+Degree:Doctor of Philosophy (PHD) in Political Science – Environmental Politics and Policy Specialization*
+
+Homepage:http://www.colostate.edu/Depts/PoliSci/
+Address:C346 Clark Building
+E-mail:mailto:April.Lindgren@colostate.edu
+Phone:9704915157
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Psychology
+Degree:Doctor of Philosophy (PHD) in Psychology
+
+Homepage:http://www.colostate.edu/Depts/Psychology
+Address:201 Behavioral Sciences Building
+E-mail:mailto:Linda.Thornton@ColoState.EDU
+Phone:9704916363
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Health and Human Sciences.
+ProgramName:Social Work, School of
+Degree:Doctor of Philosophy (PHD) in Social Work
+
+Homepage:http://www.chhs.colostate.edu/ssw/
+Address:127 Education Building
+E-mail:mailto:Timothy.Frank@colostate.edu
+Phone:9704912536
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your department may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Liberal Arts.
+ProgramName:Sociology
+Degree:Doctor of Philosophy (PHD) in Sociology
+
+Homepage:http://sociology.colostate.edu/graduate
+Address:B258 Clark Building
+E-mail:mailto:socgrad@colostate.edu
+Phone:9704916044
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Agricultural Sciences.
+ProgramName:Soil and Crop Sciences
+Degree:Doctor of Philosophy (PHD) in Soil and Crop Sciences
+
+Homepage:http://www.soilcrop.colostate.edu
+Address:C127 Plant Sciences Building
+E-mail:mailto:Karen.Allison@colostate.edu
+Phone:9704916295
+DDLWithAid:
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:This department is a part of the College of Natural Sciences.
+ProgramName:Statistics
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
+ID:null
+Country:America
+University:Colorado State University
+School:This program is a part of the College of Engineering.
+ProgramName:Systems Engineering
+Degree:Doctor of Philosophy (PHD) in Systems Engineering
+
+Homepage:http://www.engr.colostate.edu/academic/se
+Address:AR204 Engineering Building
+E-mail:mailto:sys_engr_info@engr.colostate.edu
+Phone:9704916872
+DDLWithAid:Financial aid resources available through the Office of Financial Aid website. Your program may have financial aid options available and please check our financial resource section for additional opportunities.
+DDLWithoutAid:
+
+ID:null
+Country:America
+University:Colorado State University
+School:
+ProgramName:Toxicology Graduate Programs
+Degree:null
+Homepage:null
+Address:null
+E-mail:null
+Phone:null
+DDLWithAid:null
+DDLWithoutAid:null
+
